@@ -1,0 +1,43 @@
+What is platform independence ? Explain it using 100 or more words.
+ Platform independent is that java program which is complied can run on all operating sysytems like mac, Windows, etc. java Program is Written in language that can be understood by the developers,for machine to understand this
+java file containg source code is converted into .class file by the compiler. this complied file can be run on any platform. 
+ 
+ What is the different between primitive and Non-Primitive data type?
+ 
+ Primitive data types:- 
+ 1.There are 8 Types of Primitive datatypes. 
+ 2. Store data of only one type.
+ 3.The primitive datatypes have Default value. 
+ 
+ Non-Primitive data types:-
+ 1. String is one of the example of Primitive data type.
+ 2. Can store the data of more than one type.
+ 3. The Non-Primitive data types have null as there default value.
+ 
+ Explain class and its members with and example.
+ class is a Design/Blueprint consisting of Status and Behaviours.
+ 
+ Members of Class:-
+ 1.Variables : Variables are the Containers that Stores the value in the java memory.
+ example : int a = 1;
+  where - a is the Variable.
+ 2.Methods : method is a block of code grouped together to perform a certain opertaion/funcationality.
+ It is used to achieve the reuseability of the code.
+  example : class Var{
+ public static void main(String [] args){
+ }
+ 3.Constructors : The constructor is Special method with name as same as class with no return type.
+   example : class Var{
+   Var(){
+   }
+ 4.Blocks.
+ 
+ 6. Explain Main Method ?
+   public static void main(String []args){
+   }
+   public - Access modifier.
+   void - return type.
+   main - mathod name.
+   String []args - array of String Type.
+ 
+ 
