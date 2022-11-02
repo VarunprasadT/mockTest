@@ -1,14 +1,13 @@
 class Am{
-public static void main(String []args){
-int n = 3;
-int num = 123;
-int lastDigit=0;
-int count = 0;
-for(;num>0;num=num/10){
-	count++;
-lastDigit = num%10;
-int sum = lastDigit*count;
-System.out.println(sum);
-}
-}
+	public static void main(String []args){
+		int num=123;
+		int r=1;
+		int sum;
+		for(int i=0;i>0;i++){
+			num=num%10;
+			r=num;
+			r=(r*r*r);
+		}
+		System.out.println(r);
+	}
 }
