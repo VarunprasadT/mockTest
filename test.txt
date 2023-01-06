@@ -1,0 +1,9 @@
+3. 
+1.Abstract Class.
+2.Single ton Class.
+4.a.we should make class Private.
+b.
+c.By creating a object of one class in the other.
+10.* Static polymorphism:- also called as compile time polymorphism is Method overloading the method having same name but differ in parameter.
+* Dynamic polymorphism :- also called as runtime polymorphism is method overridding the method having same signature is achived by inheritance.
+11.By converting the variables access modifier to private.By seralization
